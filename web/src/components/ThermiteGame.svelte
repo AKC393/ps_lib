@@ -251,7 +251,7 @@
         gap: 1vw;
         width: 30vw;
         height: 29vw;
-        background-color: #1f1f1f;
+        background-color: #000000;
         border-radius: 12px;
         padding: 1vw;
         box-shadow: inset 0 0 8px rgba(0, 0, 0, 0.5);
